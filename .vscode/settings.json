@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "cehj",
+        "firebaseapp",
+        "firebasestorage",
         "Fsjd",
         "mosesdriver",
         "Rldi",
@@ -10,5 +12,8 @@
         "Wuibl",
         "XVLV",
         "Yzijt"
+    ],
+    "cSpell.ignoreWords": [
+        "Jcouv"
     ]
 }
